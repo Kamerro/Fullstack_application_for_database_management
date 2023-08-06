@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsSQLIDE", "WinFormsSQLIDE\WinFormsSQLIDE.csproj", "{99EE68E3-6AA1-4CB2-AC2B-8A99EA551310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99EE68E3-6AA1-4CB2-AC2B-8A99EA551310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EE68E3-6AA1-4CB2-AC2B-8A99EA551310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EE68E3-6AA1-4CB2-AC2B-8A99EA551310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EE68E3-6AA1-4CB2-AC2B-8A99EA551310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DE7483B-F2F4-451A-9B71-8D05200EDD48}
+	EndGlobalSection
+EndGlobal
